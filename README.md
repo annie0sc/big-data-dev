@@ -10,6 +10,9 @@ I'm from Abu Dhabi, UAE. Completed high school, learned a bit of Arabic and C++ 
 Well, for now, my strong point is web development, java, and python. So I am aiming for a job or an internship after my Master's.
 
 ## Links
-![](https://github.com/annie0sc/big-data-dev/blob/main/pp.png)
+
+[Shell Data Processing](https://github.com/annie0sc/shell-data-processing)
 
 [LinkedIn Profile](https://www.linkedin.com/in/annie-chandolu/)
+
+![](https://github.com/annie0sc/big-data-dev/blob/main/pp.png)
