@@ -11,7 +11,7 @@ Well, for now, my strong point is web development, java, and python. So I am aim
 
 ## Links
 
-[Shell Data Processing](https://github.com/annie0sc/shell-data-processing)
+[Shell Data Processing Repository](https://github.com/annie0sc/shell-data-processing)
 
 [LinkedIn Profile](https://www.linkedin.com/in/annie-chandolu/)
 
